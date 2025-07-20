@@ -14,25 +14,25 @@
           <mxGeometry x="194" y="350" width="1075" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-1" value="智慧校园的顶层设计总体架构图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546.5" y="160" width="370" height="30" as="geometry" />
+          <mxGeometry x="546.5" y="90" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-2" value="校亲行故人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-3" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-4" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="740" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-5" value="社e公o" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-6" value="模友、家长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-8" value="&lt;div&gt;智慧学习、&lt;span style=&quot;background-color: initial;&quot;&gt;智慧教学、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧科研、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧应用、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧社交、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧管理、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧决策、賀慧服务，智慧生活.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="240" width="1076" height="30" as="geometry" />
+          <mxGeometry x="200" y="170" width="1076" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="280" width="120" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
