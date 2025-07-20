@@ -96,7 +96,7 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-53" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="969" y="510" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Function" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Function" style="html=1;whiteSpace=wrap;fillColor=default;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="361.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Collaboration" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
