@@ -72,8 +72,10 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-45" value="Service" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.service;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="679" y="680" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-46" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-47" target="dKdSaXE48SgPbhcamS2K-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-46" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421.5" y="436.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="329" y="510" width="185" height="80" as="geometry" />
@@ -95,9 +97,6 @@
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-53" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="969" y="510" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Function" style="html=1;whiteSpace=wrap;fillColor=default;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="361.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Collaboration" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="554.5" y="360" width="150" height="75" as="geometry" />
