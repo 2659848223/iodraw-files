@@ -31,8 +31,8 @@
         <mxCell id="RMDXHORxPX1gOimpjHK9-6" value="模友、家长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RMDXHORxPX1gOimpjHK9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="RMDXHORxPX1gOimpjHK9-8" value="&lt;div&gt;智慧学习、&lt;span style=&quot;background-color: initial;&quot;&gt;智慧教学、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧科研、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧应用、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧社交、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧管理、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智慧决策、賀慧服务，智慧生活.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="240" width="1076" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
