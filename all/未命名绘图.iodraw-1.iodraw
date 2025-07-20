@@ -119,25 +119,25 @@
           <mxGeometry x="250" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-45" value="信息资源目录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653" y="600" width="170" height="30" as="geometry" />
+          <mxGeometry x="925" y="675" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-46" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
+          <mxGeometry x="925" y="660" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-48" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
+          <mxGeometry x="830" y="650" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-49" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
+          <mxGeometry x="653" y="650" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-50" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
+          <mxGeometry x="480" y="650" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RMDXHORxPX1gOimpjHK9-51" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="60" height="80" as="geometry" />
+          <mxGeometry x="310" y="650" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
